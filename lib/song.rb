@@ -1,8 +1,11 @@
 class Song
 
-  def new(name, artist, genre)
+  def new=(name, artist, genre)
+    @new
   end
 
+  def new
+    @new
   def name
   end
 

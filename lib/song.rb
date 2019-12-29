@@ -6,6 +6,8 @@ class Song
 
   def new
     @new
+  end
+  
   def name
   end
 
